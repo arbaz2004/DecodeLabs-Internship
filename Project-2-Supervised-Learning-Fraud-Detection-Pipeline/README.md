@@ -1,9 +1,8 @@
-# Loan Default Prediction using Machine Learning
+# Project 2: Supervised Learning (Fraud Detection Pipeline)
 
 ## Project Overview
 
-This project predicts whether a customer is likely to default on a loan using supervised machine learning techniques.
-
+This project demonstrates a supervised learning pipeline for binary classification using a Loan Default dataset. It follows the DecodeLabs Project 2 requirements, including data preprocessing, handling class imbalance with SMOTE, model training using Logistic Regression and Random Forest, and evaluation using Precision, Recall, F1-Score, Confusion Matrix, and ROC-AUC.
 The project includes:
 
 - Data Cleaning
